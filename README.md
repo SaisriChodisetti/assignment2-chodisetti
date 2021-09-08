@@ -28,3 +28,14 @@
 * Camera
 
 **[Click Here for AboutMe](AboutMe.md)**
+
+***
+## Food I would recommend
+
+> If someone wants to know which food makes me happy and try the things which I do go and check the below table
+
+|Food      |Location |Amount  |
+|:--------:|:-------:|:------:|
+|Lemon Rice|India    |10      |
+|Biryani   |Hyderabad|40      |
+|Kaju Barfi|Kakainda |30      |
