@@ -32,7 +32,7 @@
 ***
 ## Food I would recommend
 
-> If someone wants to know which food makes me happy and try the things which I do go and check the below table
+If someone wants to know which food makes me happy and try the things which I do go and check the below table
 
 |Food      |Location |Amount  |
 |:--------:|:-------:|:------:|
