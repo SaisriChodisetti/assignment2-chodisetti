@@ -18,3 +18,11 @@
     2. Terminal
 4. Kochi Internatinal Airport
 5. Munnar through private bus
+
+* Bag Packing
+    * Rain Coats
+    * Tropical Clothes
+    * Sunglasses
+    * Sunscreen
+* Tour Guide
+* Camera
