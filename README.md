@@ -39,3 +39,8 @@ If someone wants to know which food makes me happy and try the things which I do
 |Lemon Rice|India    |10      |
 |Biryani   |Hyderabad|40      |
 |Kaju Barfi|Kakainda |30      |
+
+***
+## Quotes I adore
+> Fear cuts deeper than swords - Author : **George R.R. Martin** <br><br>
+> Truth can be stated in a thousand different ways, yet each one can be true – Author : **Swami Vivekananda**
